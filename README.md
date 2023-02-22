@@ -1,0 +1,1 @@
+An animated, interactive, color changing 3D sphere built using Vite, Three.js, and GSAP.
